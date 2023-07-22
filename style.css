@@ -1,0 +1,36 @@
+body {
+    /*comentario*/
+    background-color: #F5EAD4;
+    color: black;
+    /*link del html y el css*/
+    font-family: 'Ysabeau Infant', sans-serif;
+    margin: 3% 10% 10% 10%;
+    font-size: 18px;
+    text-align: justify;
+}
+/*se le pone un . a un elemento en especifico llamado previamente con el atributo class*/
+.titulo{
+    display: flex;
+    color:#284D5D;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+    justify-content: center;
+}
+
+h2{
+    color: #826740;
+}
+
+img{
+    height: 200px;
+    
+}
+
+a{
+    color: rgb(6, 47, 161);
+    font-size: 18px;
+}
+
+h3{
+    color: #5c411c;
+}
